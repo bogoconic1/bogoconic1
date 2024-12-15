@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     # You can change the cron expression to suit your needs
-    - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
+    - cron: "0 0 * * *" # 11:11 AM on the 1st of every month
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
           node-version: "20"
 
       - name: Install Puppeteer browser
-        run: npx puppeteer browsers install chrome@131.0.6778.85
+        run: npx puppeteer browsers install chrome@129.0.6668.70
 
       - name: Use Kaggle Badges Action
         uses: spider-man-tm/kaggle-badges@v1.2.6
