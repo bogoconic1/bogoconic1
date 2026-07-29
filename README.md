@@ -7,5 +7,6 @@ There’s no reason to be lazy. Every hour I spend building compounds my skill. 
 
 ## My Kaggle
 
-<img width="443" height="302" alt="image" src="https://github.com/user-attachments/assets/1edd1e7a-77c1-49df-b252-bf316d1f70ca" />
+<img width="504" height="355" alt="image" src="https://github.com/user-attachments/assets/624ee065-cd70-4349-a4de-78051219560d" />
+
 
