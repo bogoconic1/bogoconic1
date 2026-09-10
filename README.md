@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a **Founding Engineer** at a private equity stealth startup in the **San Francisco Bay Area**.
+I am a **Founding Engineer** at Solvea, based in **San Francisco Bay Area**. Working on simulating high-stakes decisions for businesses.
 
 ## Motto
 There’s no reason to be lazy. Every hour I spend building compounds my skill. Every project is a shortcut to mastery. Just build.
